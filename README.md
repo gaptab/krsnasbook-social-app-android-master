@@ -1,6 +1,3 @@
-# krsnasbook-social-app-android-master
-Initial Commit
-
 Krsnasbook
 =============
 
